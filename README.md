@@ -33,6 +33,6 @@ The following deliverables were expected:
 
 Katrina Booth: katrinalilybooth@gmail.com
 
-Project Link: [https://github.com/KatrinaBooth/TMDB-Project](https://github.com/KatrinaBooth/TMDB-Project)
+Project Link: [https://github.com/KatrinaBooth/Offuture-Project](https://github.com/KatrinaBooth/Offuture-Project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
